@@ -1,1 +1,5 @@
 LMS FLUTTER APP 
+using:
+ -API
+ -MVVM
+ -BLOC/PROVIDERS 
